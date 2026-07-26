@@ -1,0 +1,1 @@
+Deploy all files in this folder together. Keep index.html and characters.js in the same directory.
