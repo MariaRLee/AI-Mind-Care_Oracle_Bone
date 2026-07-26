@@ -1,0 +1,1 @@
+Upload the contents of this folder to your static hosting / GitHub Pages root. V1.1 keeps local-only privacy, no login, no analytics, and responsive support for desktop and mobile browsers.
