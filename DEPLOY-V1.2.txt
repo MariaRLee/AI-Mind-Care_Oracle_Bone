@@ -1,0 +1,1 @@
+Upload the entire AI-Mind-Care-Oracle-Bone-Quest-V1.2 folder to GitHub Pages or another static host. No external libraries, analytics, login, or server storage are required.
